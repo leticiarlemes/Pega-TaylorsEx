@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #4e2780;
+}
+canvas {
+  display: block;
+}
+#cabeçalho{
+  display: flex;
+  justify-content: center;
+}
+#cabeçalho{
+  padding-top: 12px;
+}
+#cjogo{
+  display: flex;
+  justify-content: center;
+}
+#cjogo span{
+  padding-top: 70px;
+}
+
+#rodapé{
+  display: flex;
+  justify-content: center;
+}
+#rodapé img{
+  padding-top: 90px;
+}
